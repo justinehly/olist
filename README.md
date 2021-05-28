@@ -7,7 +7,7 @@
 •	Feby Thomas Cheruvathoor
 
 #### Links to the Project
-[PDF: Olist Analytics - Visualization and Data Processing](https://github.com/justinehly/olist/blob/446a0cbde163b13b24760ac499300ae0c9a865b0/Olist_Analytics_Ehly_Barrera_Olanipekun_Cheruvathoor_ML1_Th_630p.pdf)
+[PDF: Olist Analytics - Visualization and Data Processing](https://github.com/justinehly/olist/blob/446a0cbde163b13b24760ac499300ae0c9a865b0/Olist_Analytics_Ehly_Barrera_Olanipekun_Cheruvathoor_ML1_Th_630p.pdf)  
 [IPYNB: Olist Analytics - Visualization and Data Processing](https://github.com/justinehly/olist/blob/446a0cbde163b13b24760ac499300ae0c9a865b0/Lab1%20-%20Visualization%20and%20Data%20Processing/Olist%20-%20Lab%20One%20-Visualization%20and%20Data%20Processing.ipynb)
 
 #### Project Overview
